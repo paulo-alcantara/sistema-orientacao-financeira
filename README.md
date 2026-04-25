@@ -53,3 +53,9 @@ Montagem da Carteira
 Simulação de Investimentos
   ↓
 Resultados e Educação Financeira
+
+Observações:
+- A aplicação possui finalidade educacional e não representa recomendação financeira profissional  
+- As simulações utilizam estimativas de retorno e não garantem resultados futuros  
+- O sistema não utiliza dados em tempo real do mercado financeiro  
+- Os cenários (pessimista, base e otimista) são aproximações para fins didáticos  
